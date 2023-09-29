@@ -37,6 +37,18 @@ padding: 50px 0;
 Marcelo”>
 <h3 class=”estudante-nome”>Marcelo</h3>
 <img class=”estudante-icone”src=”./img/instagram.png” alt=”Instagram”>
+<div class=”estudante-todos”>
+<span></span>
+<div class=”estudante-div”>
+footer{
+background-color: black;
+padding: 15px 0;
+  footer{
+background-color: black;
+padding: 15px 0;
+text-align: center;
+}
+  
 <img class=”estudante-icone”src=”./img/github.png” alt=”Github”>
 <img class=”estudante-icone” src=”./img/linkedin.png” alt=”LinkedIn”>
 </div>
